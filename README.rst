@@ -6,7 +6,7 @@ June
 .. image:: https://coveralls.io/repos/pythoncn/june/badge.png?branch=master
         :target: https://coveralls.io/r/pythoncn/june
 
-This is a forum project.
+This is a forum project. Demo：http://python-china.org/
 
 Installation
 -------------
